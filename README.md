@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">I'm ANIRUDH TRIVEDI</h1>
+<h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **anirudhtrivedi3014@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Anirudh/Downloads/Anirudh%20Resume%20Main.pdf](file:///C:/Users/Anirudh/Downloads/Anirudh%20Resume%20Main.pdf)
+- 📄 Know about my experiences [https://anirudh-trivedi-12.tiiny.site](https://anirudh-trivedi-12.tiiny.site)
 
 - ⚡ Fun fact **Keep Moving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh ojha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirudh-ojha-4414b9244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-ojha-4414b9244" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudhace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhace" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ace12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ace12" height="30" width="40" /></a>
 </p>
