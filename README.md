@@ -1,8 +1,7 @@
-[!MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Chrome_Enterprise_CBCM_blog_header_V1.gif)
+![logo](https://github.com/Ace12Anirudh/Ace12Anirudh/blob/main/Google_Chrome_Enterprise_CBCM_blog_header_V1.gif)
 
 <h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
-<img align="right" alt="da" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Chrome_Enterprise_CBCM_blog_header_V1.gif">
 
 <img align="right" alt="da" width="400" src="https://motionbgs.com/media/1953/monkey-d-luffy-straw-hat_312.gif">
 
