@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
 
-<img align="right" alt="da" width="400" src="![0_Ujz9KMO24DaG000R](https://github.com/user-attachments/assets/a94e7741-f0db-4d9f-9389-31be54515401)">
+<img align="right" alt="da" width="400" src="C:\Users\Anirudh\Downloads\0_Ujz9KMO24DaG000R.png">
 
 https://github.com/user-attachments/assets/08d4e5a4-05b6-4478-8110-cd66532e4d2a
 
