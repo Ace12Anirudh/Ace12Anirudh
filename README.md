@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
 
+<img align="right" alt="da" width="400" src=""C:\Users\Anirudh\Downloads\0_Ujz9KMO24DaG000R.png"">
+
+<video width="320" height="240" controls>
+<source src="./monkey-d-luffy-straw-hat2.1920x1080.mp4" type="video/mp4">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
 
 - 🔭 I’m currently working on **Minor Project**
