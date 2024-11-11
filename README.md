@@ -1,11 +1,12 @@
-## Hi there 👋
+[!MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Chrome_Enterprise_CBCM_blog_header_V1.gif)
 
 <h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
+<img align="right" alt="da" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Chrome_Enterprise_CBCM_blog_header_V1.gif">
 
-<img align="right" alt="da" width="400" src="C:\Users\Anirudh\Downloads\0_Ujz9KMO24DaG000R.png">
+<img align="right" alt="da" width="400" src="https://motionbgs.com/media/1953/monkey-d-luffy-straw-hat_312.gif">
 
-https://github.com/user-attachments/assets/08d4e5a4-05b6-4478-8110-cd66532e4d2a
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
 
