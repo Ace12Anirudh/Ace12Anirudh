@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
 <h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
 
-<img align="right" alt="da" width="400" src=""C:\Users\Anirudh\Downloads\0_Ujz9KMO24DaG000R.png"">
+![0_Ujz9KMO24DaG000R](https://github.com/user-attachments/assets/a94e7741-f0db-4d9f-9389-31be54515401)
 
-<video width="320" height="240" controls>
-<source src="./monkey-d-luffy-straw-hat2.1920x1080.mp4" type="video/mp4">
+https://github.com/user-attachments/assets/08d4e5a4-05b6-4478-8110-cd66532e4d2a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
 
