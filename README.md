@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
 
-- 🔭 I’m currently working on **Minor Project**
+- 🔭 I’m currently working on **Major Project**
 
 - 🌱 I’m currently learning **GCP**
 
