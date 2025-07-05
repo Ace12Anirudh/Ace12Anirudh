@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anirudhtrivedi3014@gmail.com**
 
-- 📄 Know about my experiences [https://ace-anirudh.lovable.app/]((https://ace-anirudh.lovable.app/))
+- 📄 Know about my experiences [https://ace-anirudh.lovable.app/](https://ace-anirudh.lovable.app/)
 
 - ⚡ Fun fact **Keep Moving**
 
