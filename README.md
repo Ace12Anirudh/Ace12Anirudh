@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
 
-- 🔭 I’m currently working on **Major Project**
+- 🔭 I’m currently working on ** Project**
 
 - 🌱 I’m currently learning **GCP**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anirudhtrivedi3014@gmail.com**
 
-- 📄 Know about my experiences [https://anirudh-trivedi-12.tiiny.site](https://anirudh-trivedi-12.tiiny.site)
+- 📄 Know about my experiences [https://ace-anirudh.lovable.app/]((https://ace-anirudh.lovable.app/))
 
 - ⚡ Fun fact **Keep Moving**
 
