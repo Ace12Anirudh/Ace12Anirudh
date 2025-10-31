@@ -11,21 +11,21 @@
 
 - 🔭 I’m currently working on ** Project**
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://hashnode.com/@ace12](https://hashnode.com/@ace12)
+- 📝 I regularly write articles on [https://medium.com/@anirudhtrivedi3014](https://medium.com/@anirudhtrivedi3014)
 
-- 💬 Ask me about **Python, Html, CSS, React, Cloud**
+- 💬 Ask me about **AWS, Devops, Python, Html, CSS, Cloud**
 
 - 📫 How to reach me **anirudhtrivedi3014@gmail.com**
 
-- 📄 Know about my experiences [https://ace-anirudh.lovable.app/](https://ace-anirudh.lovable.app/)
+- 📄 Know about my experiences [https://ace12anirudh.github.io/ace-portfolio/](https://ace12anirudh.github.io/ace-portfolio/)
 
 - ⚡ Fun fact **Keep Moving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-ojha-4414b9244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-ojha-4414b9244" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anirudh-trivedi-4414b9244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-ojha-4414b9244" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudhace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhace" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ace12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ace12" height="30" width="40" /></a>
 </p>
