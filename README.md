@@ -6,7 +6,7 @@
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://github.com/Ace12Anirudh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -70,13 +70,13 @@ A collection of the tools and technologies I love to work with.
 
 This dashboard provides a snapshot of my coding habits and contributions.
 
-<!-- The new, stable, and professional stats section starts here -->
 <div align="center">
   
   <!-- Stats and Streak Side-by-Side -->
   <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <!-- THE STREAK STATS LINK WITH A CACHE BUSTER -->
+    <img width="48%" src="https://streak-stats.demolab.com/?user=ace12anirudh&theme=tokyonight&hide_border=true&date=20240521" alt="GitHub Streak" />
   </p>
   
   <!-- Centered Top Languages Card -->
@@ -95,9 +95,9 @@ This dashboard provides a snapshot of my coding habits and contributions.
   <img src="https://ghchart.rshah.org/87CEEB/ace12anirudh" alt="Anirudh's Contribution Graph" width="96%">
   
 </div>
-<!-- The stats section ends here -->
 
 ---
+
 
 <!---## 📝 My Latest Blog Posts
 
