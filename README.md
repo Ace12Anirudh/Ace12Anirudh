@@ -6,7 +6,7 @@
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://github.com/Ace12Anirudh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
