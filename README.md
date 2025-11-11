@@ -89,11 +89,6 @@ This dashboard provides a snapshot of my coding habits and contributions.
   <!-- Full-Width Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ace12anirudh&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%">
   
-  <br><br>
-  
-  <!-- Themed Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/87CEEB/ace12anirudh" alt="Anirudh's Contribution Graph" width="96%">
-  
 </div>
 
 ---
