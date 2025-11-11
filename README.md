@@ -1,9 +1,3 @@
-<!-- 
-Hi, Anirudh! I've redesigned your README to be more engaging and visually appealing.
-I've added new sections, better formatting, and dynamic elements.
-Feel free to customize the colors, links, and content to match your style.
--->
-
 <!-- Header Banner -->
 <p align="center">
   <img src="https://github.com/Ace12Anirudh/Ace12Anirudh/blob/main/Google_Chrome_Enterprise_CBCM_blog_header_V1.PNG" alt="Header Banner">
@@ -76,27 +70,34 @@ A collection of the tools and technologies I love to work with.
 
 These cards give a glimpse into my coding activity and contributions.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace12anirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- The updated section starts here -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace12anirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <br>
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ace12anirudh&theme=react-dark&hide_border=true&area=true" alt="activity graph">
-</p>
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-contribution-graph.vercel.app/graph?username=ace12anirudh&theme=tokyonight&hide_border=true" alt="activity graph">
+</div>
+<!-- The updated section ends here -->
 
 ---
 
-## 📝 My Latest Blog Posts
+<!-- ## 📝 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by a GitHub Action. -->
 <!-- BLOG-POST-LIST:END -->
 
----
+
 
 ## ☕ Support My Work
 
