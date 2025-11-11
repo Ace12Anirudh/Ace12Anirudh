@@ -1,40 +1,109 @@
-![logo](https://github.com/Ace12Anirudh/Ace12Anirudh/blob/main/Google_Chrome_Enterprise_CBCM_blog_header_V1.PNG)
+<!-- 
+Hi, Anirudh! I've redesigned your README to be more engaging and visually appealing.
+I've added new sections, better formatting, and dynamic elements.
+Feel free to customize the colors, links, and content to match your style.
+-->
 
-<h1 align="center">Hi 👋, I'm ANIRUDH TRIVEDI</h1>
-<h3 align="center">Dynamic and results-driven Computer Science student with a strong foundation in software development and Cloud Computing.</h3>
-
-<img align="right" alt="da" width="400" src="https://motionbgs.com/media/1953/monkey-d-luffy-straw-hat_312.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20views&color=0e75b6&style=flat" alt="ace12anirudh" /> </p>
-
-- 🔭 I’m currently working on ** Project**
-
-- 🌱 I’m currently learning **Devops**
-
-- 📝 I regularly write articles on [https://medium.com/@anirudhtrivedi3014](https://medium.com/@anirudhtrivedi3014)
-
-- 💬 Ask me about **AWS, Devops, Python, Html, CSS, Cloud**
-
-- 📫 How to reach me **anirudhtrivedi3014@gmail.com**
-
-- 📄 Know about my experiences [https://ace12anirudh.github.io/ace-portfolio/](https://ace12anirudh.github.io/ace-portfolio/)
-
-- ⚡ Fun fact **Keep Moving**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anirudh-trivedi-4414b9244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-ojha-4414b9244" height="30" width="40" /></a>
-<a href="https://instagram.com/anirudhace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhace" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ace12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ace12" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/Ace12Anirudh/Ace12Anirudh/blob/main/Google_Chrome_Enterprise_CBCM_blog_header_V1.PNG" alt="Header Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Typing Intro -->
+<div align="center">
+  <a href="https://github.com/Ace12Anirudh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace12anirudh&show_icons=true&locale=en&layout=compact" alt="ace12anirudh" /></p>
+<!-- Socials and Views -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/anirudh-trivedi-4414b9244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@anirudhtrivedi3014" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://hashnode.com/@ace12" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+  <a href="https://instagram.com/anirudhace" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ace12anirudh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="ace12anirudh" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&locale=en" alt="ace12anirudh" /></p>
+<!-- Right Aligned GIF -->
+<img align="right" alt="Coding GIF" width="400" src="https://motionbgs.com/media/1953/monkey-d-luffy-straw-hat_312.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&" alt="ace12anirudh" /></p>
+<!-- About Me Section -->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "25px"> </picture> About Me
+
+I'm a dynamic and results-driven Computer Science student with a strong passion for Software Development, DevOps, and Cloud Computing. I love building things that solve real-world problems and continuously expanding my skillset.
+
+- 🔭 &nbsp; I’m currently building an **Automated CI/CD Pipeline Project**.
+- 🌱 &nbsp; I’m deeply focused on learning **Advanced DevOps tools and Kubernetes**.
+- ✍️ &nbsp; I regularly write articles on my [Medium Blog](https://medium.com/@anirudhtrivedi3014).
+- 💬 &nbsp; Ask me about **AWS, GCP, Python, Docker, and Web Development**.
+- 📫 &nbsp; How to reach me: **anirudhtrivedi3014@gmail.com**
+- 📄 &nbsp; Check out my experiences on my [Portfolio Website](https://ace12anirudh.github.io/ace-portfolio/).
+- ⚡ &nbsp; Fun fact: **My personal motto is "Keep Moving Forward!"**
+
+---
+
+## 🚀 My Tech Stack
+
+A collection of the tools and technologies I love to work with.
+
+<p align="center">
+  <!-- Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,php&perline=5" />
+  </a>
+  <br>
+  <!-- DevOps, Cloud & Databases -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,mongodb&perline=5" />
+  </a>
+  <br>
+  <!-- Frameworks & Libraries -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,pandas,scikitlearn&perline=5" />
+  </a>
+  <br>
+  <!-- Other Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,illustrator&perline=4" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats & Activity
+
+These cards give a glimpse into my coding activity and contributions.
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace12anirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ace12anirudh&theme=react-dark&hide_border=true&area=true" alt="activity graph">
+</p>
+
+---
+
+## 📝 My Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated by a GitHub Action. -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ☕ Support My Work
+
+If you like what I do and want to support me, you can buy me a coffee!
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="162">
+  </a>
+</p>
