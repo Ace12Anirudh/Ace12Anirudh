@@ -99,7 +99,7 @@ This dashboard provides a snapshot of my coding habits and contributions.
 
 ---
 
-## 📝 My Latest Blog Posts
+<!---## 📝 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by a GitHub Action. -->
@@ -112,7 +112,7 @@ This dashboard provides a snapshot of my coding habits and contributions.
 If you like what I do and want to support me, you can buy me a coffee!
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://buymeacoffee.com/ace12anirudh" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="162">
   </a>
 </p>
