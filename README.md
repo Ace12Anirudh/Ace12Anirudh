@@ -6,7 +6,7 @@
 <!-- Typing Intro -->
 <div align="center">
   <a href="https://github.com/Ace12Anirudh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;Full-Stack+Developer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3393FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Anirudh+Trivedi+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;AWS+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -68,36 +68,44 @@ A collection of the tools and technologies I love to work with.
 
 ## 📊 My GitHub Stats & Activity
 
-These cards give a glimpse into my coding activity and contributions.
+This dashboard provides a snapshot of my coding habits and contributions.
 
-<!-- The updated section starts here -->
+<!-- The new, stable, and professional stats section starts here -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace12anirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- Stats and Streak Side-by-Side -->
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+  
+  <!-- Centered Top Languages Card -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace12anirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  
   <br>
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ace12anirudh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Full-Width Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ace12anirudh&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%">
+  
   <br><br>
-  <img src="https://github-readme-contribution-graph.vercel.app/graph?username=ace12anirudh&theme=tokyonight&hide_border=true" alt="activity graph">
+  
+  <!-- Themed Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/87CEEB/ace12anirudh" alt="Anirudh's Contribution Graph" width="96%">
+  
 </div>
-<!-- The updated section ends here -->
+<!-- The stats section ends here -->
 
 ---
 
-<!-- ## 📝 My Latest Blog Posts
+## 📝 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by a GitHub Action. -->
 <!-- BLOG-POST-LIST:END -->
 
-
+---
 
 ## ☕ Support My Work
 
