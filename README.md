@@ -75,7 +75,7 @@ This dashboard provides a snapshot of my coding habits and contributions.
   <!-- Stats and Streak Side-by-Side -->
   <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ace12anirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anirudh's GitHub Stats" />
-    <!-- THE STREAK STATS LINK WITH A CACHE BUSTER -->
+<!-- THE STREAK STATS LINK WITH A CACHE BUSTER -->
     <img width="48%" src="https://streak-stats.demolab.com/?user=ace12anirudh&theme=tokyonight&hide_border=true&date=20240521" alt="GitHub Streak" />
   </p>
   
