@@ -94,11 +94,11 @@ This dashboard provides a snapshot of my coding habits and contributions.
 ---
 
 
-<!---## 📝 My Latest Blog Posts
+## 📝 My Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+BLOG-POST-LIST:START
 <!-- This section will be automatically updated by a GitHub Action. -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END
 
 ---
 
