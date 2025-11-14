@@ -98,8 +98,8 @@ This dashboard provides a snapshot of my coding habits and contributions.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by a GitHub Action. -->
+<!-- Your blog posts will appear here! -->
 <!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## ☕ Support My Work
