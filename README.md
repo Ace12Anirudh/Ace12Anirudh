@@ -97,11 +97,11 @@ This dashboard provides a snapshot of my coding habits and contributions.
 ## 📝 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Fully Automated AWS Infrastructure Using Terraform + GitLab CI/CD](https://medium.com/@anirudhtrivedi3014/building-fully-automated-aws-infrastructure-using-terraform-gitlab-ci-cd-8688c19355e9?source=rss-99f6eedd17f9------2)
 - [From Zero to Deployed: How I Built a Full-Stack Serverless App on AWS to Stand Out](https://medium.com/@anirudhtrivedi3014/from-zero-to-deployed-how-i-built-a-full-stack-serverless-app-on-aws-to-stand-out-2f3c251ea5f1?source=rss-99f6eedd17f9------2)
 - [The Dynamic Duo of Observability: Your Guide to Understanding Prometheus &amp; Grafana](https://medium.com/@anirudhtrivedi3014/the-dynamic-duo-of-observability-your-guide-to-understanding-prometheus-grafana-b24c6adada6d?source=rss-99f6eedd17f9------2)
 - [Demystifying AWS Auto Scaling: How I Built an App That Never Goes Down &lpar;and Saves Money!&rpar;](https://medium.com/@anirudhtrivedi3014/demystifying-aws-auto-scaling-how-i-built-an-app-that-never-goes-down-and-saves-money-8866bb82710f?source=rss-99f6eedd17f9------2)
 - [Code Faster, Think Smarter: How I Turned VS Code into an AI Powerhouse with Gemini](https://medium.com/@anirudhtrivedi3014/code-faster-think-smarter-how-i-turned-vs-code-into-an-ai-powerhouse-with-gemini-2c22b474a650?source=rss-99f6eedd17f9------2)
-- [Neo4j : What is Neo4j ?](https://medium.com/@anirudhtrivedi3014/neo4j-what-is-neo4j-4d1909b037d6?source=rss-99f6eedd17f9------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
