@@ -97,11 +97,11 @@ This dashboard provides a snapshot of my coding habits and contributions.
 ## 📝 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End EKS Monitoring: Deploying Prometheus &amp; Grafana via Helm with NodePort Access &amp; PagerDuty…](https://medium.com/@anirudhtrivedi3014/end-to-end-eks-monitoring-deploying-prometheus-grafana-via-helm-with-nodeport-access-pagerduty-c6412e3437e8?source=rss-99f6eedd17f9------2)
 - [Kubernetes Architecture: Deconstructing the Brain and the Brawn](https://medium.com/@anirudhtrivedi3014/kubernetes-architecture-deconstructing-the-brain-and-the-brawn-9c8ba3b3ec56?source=rss-99f6eedd17f9------2)
 - [How I Built the Smart Task Assistant — A DevOps &amp; Cloud Engineer’s Perspective](https://medium.com/@anirudhtrivedi3014/how-i-built-the-smart-task-assistant-a-devops-cloud-engineers-perspective-5f3bd4bb81c9?source=rss-99f6eedd17f9------2)
 - [Building Fully Automated AWS Infrastructure Using Terraform + GitLab CI/CD](https://medium.com/@anirudhtrivedi3014/building-fully-automated-aws-infrastructure-using-terraform-gitlab-ci-cd-8688c19355e9?source=rss-99f6eedd17f9------2)
 - [From Zero to Deployed: How I Built a Full-Stack Serverless App on AWS to Stand Out](https://medium.com/@anirudhtrivedi3014/from-zero-to-deployed-how-i-built-a-full-stack-serverless-app-on-aws-to-stand-out-2f3c251ea5f1?source=rss-99f6eedd17f9------2)
-- [The Dynamic Duo of Observability: Your Guide to Understanding Prometheus &amp; Grafana](https://medium.com/@anirudhtrivedi3014/the-dynamic-duo-of-observability-your-guide-to-understanding-prometheus-grafana-b24c6adada6d?source=rss-99f6eedd17f9------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
